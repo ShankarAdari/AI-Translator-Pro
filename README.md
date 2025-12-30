@@ -1,4 +1,5 @@
 #AI Multilingual Translator with Custom Audio Synthesis
+
 Project Overview
 This project is a sophisticated, AI-driven translation platform designed to bridge communication gaps by converting various global languages into English. Beyond standard translation, the application provides a highly customizable user experience through personalized themes and granular control over synthesized speech output.
 
